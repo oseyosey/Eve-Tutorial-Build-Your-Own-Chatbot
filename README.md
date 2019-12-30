@@ -1,6 +1,6 @@
 ## Overview
 
-This is the demo code to illustrate  the basic mechanism of our chatbot, Eve. By implementing this code step by step, which I will go through, you can build your own chatbot with hours of training on your local PC. 
+This is a demo code to illustrate  the basic mechanism of our chatbot, Eve. By implementing this code step by step, which you will go through with this guide, you can build your own chatbot with hours of training on your local PC. 
 
 
 #### Table of Contents
@@ -18,7 +18,7 @@ This is the demo code to illustrate  the basic mechanism of our chatbot, Eve. By
 
 ## Introduction
 
-Hi there! In this tutorial we will go through each step for you to build your own "Eve". Eve is a conversational system, or chatbot, dedicated to help friends going through mental hardship. We want to share this the underlying technology with you. This will allow you to understand how it works under the perspective of a developer. We will go through these things before you can prepare your own chatbot. Here we go. =)
+Hi there! In this tutorial we will go through each step for you to build your own "Eve". Eve is a conversational system, or chatbot, dedicated to help friends going through their mental hardship. We want to share its underlying technology with you. This will allow you to understand how Eve works under the perspective of a developer. We will go through the following things before you can prepare your own chatbot. Here we go. =)
 
 ## Presentation
 
